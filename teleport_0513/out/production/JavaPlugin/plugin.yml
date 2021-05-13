@@ -1,0 +1,9 @@
+name: Main
+version: 1.0
+main: javaplugin.Main
+
+commands:
+  tpend:
+    description: Teleport Command
+  tpsea:
+    description: Teleport Command
